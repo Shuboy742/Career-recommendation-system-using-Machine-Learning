@@ -10,9 +10,6 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Here is a view of the actual website](#Here-is-a-view-of-the-actual-website)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
