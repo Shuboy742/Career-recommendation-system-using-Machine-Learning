@@ -146,12 +146,45 @@ Chatbot: Use the chatbot to get career advice and ask questions.
 
 #Here is a view of the actual website:
 
-Home Page
+1)Home Page
 
-Career Form
+![2023-07-25 (1)](https://github.com/user-attachments/assets/944ecc0e-591c-43c8-9cd8-ec8b1df3033d)
 
-Job Recommendation
+![2023-07-25 (2)](https://github.com/user-attachments/assets/f86a1b8c-e5a3-4b1c-a66d-163baaf7a9cc)
 
-Course Recommendation
 
-Chatbot Interaction
+2)Career Form
+
+![2023-07-25 (3)](https://github.com/user-attachments/assets/2b1792af-cc06-4a7e-88c7-058264513491)
+
+![2024-08-23 (11)](https://github.com/user-attachments/assets/4c3277d5-b881-4e16-9faa-aef17b80cfc0)
+
+![2024-08-23 (12)](https://github.com/user-attachments/assets/482fa8b6-591a-484a-bc4f-1b175cff6f8c)
+
+
+3)Job Recommendation
+
+![2024-08-23 (13)](https://github.com/user-attachments/assets/9b496a33-b560-4abb-bca6-d2412d6366b4)
+
+![2024-08-23 (14)](https://github.com/user-attachments/assets/f1e47c64-6654-421d-8be7-107332548c32)
+
+
+4)Course Recommendation
+
+![2024-08-23 (13)](https://github.com/user-attachments/assets/fb88dc42-630b-4e37-80da-fba7ab2a82da)
+
+![2024-08-23 (15)](https://github.com/user-attachments/assets/232f35ea-c61d-44c8-bc7f-8da7592f74a1)
+
+
+5)Chatbot Interaction
+
+![2024-08-23 (17)](https://github.com/user-attachments/assets/f9a3b264-bf03-47a0-9687-3f4a1e752c55)
+
+6)Contact us page
+
+![2024-08-23 (18)](https://github.com/user-attachments/assets/747020e4-5f0b-49b0-9b54-190ae7d77622)
+
+
+
+
+
