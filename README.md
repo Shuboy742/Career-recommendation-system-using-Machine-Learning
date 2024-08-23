@@ -6,10 +6,10 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
+- [Here is a view of the actual website](#Here-is-a-view-of-the-actual-website)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Here is a view of the actual website](#Here-is-a-view-of-the-actual-website)
+- [Project Structure](#project-structure)
 
 ## Features
 
