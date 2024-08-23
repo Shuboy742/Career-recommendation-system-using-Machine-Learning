@@ -53,7 +53,7 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 
 
 
-3)Job Recommendation
+<br>3)Job Recommendation
 
 ![2024-08-23 (13)](https://github.com/user-attachments/assets/b2189ffc-9eb2-43ba-8ad9-705012c97cee)
 
@@ -62,7 +62,7 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 
 
 
-4)Course Recommendation
+<br>4)Course Recommendation
 
 ![2024-08-23 (13)](https://github.com/user-attachments/assets/521c5e35-a05f-4308-a481-543f156ae453)
 
@@ -71,13 +71,13 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 
 
 
-5)Chatbot Interaction
+<br>5)Chatbot Interaction
 
 ![2024-08-23 (17)](https://github.com/user-attachments/assets/e04d48eb-f9c4-4531-84e9-939a7a4f5e07)
 
 
 
-6)Contact Us Page
+<br>6)Contact Us Page
 
 ![2024-08-23 (18)](https://github.com/user-attachments/assets/edcc3c66-a8e3-4829-909f-138fa68b430b)
 
