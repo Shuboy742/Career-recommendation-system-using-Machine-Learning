@@ -36,31 +36,46 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 
 ![2023-07-25 (1)](https://github.com/user-attachments/assets/53991646-e92f-4cde-ac07-0676ef14ac15)
 
+
 ![2023-07-25 (2)](https://github.com/user-attachments/assets/a1d17539-960c-4976-b082-5f37464d69d3)
+
+
 
 2)Career Form
 
 ![2023-07-25 (3)](https://github.com/user-attachments/assets/b2d1ac05-f718-4adc-a3f7-b723591b20dd)
 
+
 ![2024-08-23 (11)](https://github.com/user-attachments/assets/882d4e54-2da7-4d95-9078-233756952cf0)
 
+
 ![2024-08-23 (12)](https://github.com/user-attachments/assets/5b03c0e0-c57a-4aba-974b-f39e69443483)
+
+
 
 3)Job Recommendation
 
 ![2024-08-23 (13)](https://github.com/user-attachments/assets/b2189ffc-9eb2-43ba-8ad9-705012c97cee)
 
+
 ![2024-08-23 (14)](https://github.com/user-attachments/assets/b4ece6ab-9844-4215-8987-6284c06b44dc)
+
+
 
 4)Course Recommendation
 
 ![2024-08-23 (13)](https://github.com/user-attachments/assets/521c5e35-a05f-4308-a481-543f156ae453)
 
+
 ![2024-08-23 (15)](https://github.com/user-attachments/assets/07dc997c-5ec0-4a65-98ec-b268fabbe59d)
+
+
 
 5)Chatbot Interaction
 
 ![2024-08-23 (17)](https://github.com/user-attachments/assets/e04d48eb-f9c4-4531-84e9-939a7a4f5e07)
+
+
 
 6)Contact Us Page
 
