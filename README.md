@@ -9,7 +9,7 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 - [Project Structure](#project-structure)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Here is a view of the actual website](#Here-is-a-view-of-the-actual-website:)
+- [Here is a view of the actual website](#Here-is-a-view-of-the-actual-website)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,7 +30,7 @@ This project was developed as part of the Smart India Hackathon 2022. It is a we
 - **APIs**: Hugging Face API for chatbot integration
 - **Miscellaneous**: Requests library for API calls, Flask-RESTful for API creation
 
-## Here is a view of the actual website:
+## Here is a view of the actual website
 
 1)Home Page
 
